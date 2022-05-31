@@ -1,0 +1,22 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "title": "Bohemian Rhapsody",
+      "band": "Queen",
+      "review": "Great song"
+    },
+    {
+      "id": 2,
+      "title": "Stairway to heaven",
+      "band": "Led Zeppelin",
+      "review": "Great song"
+    },
+    {
+      "id": 3,
+      "title": "Hotel California",
+      "band": "The Eagles",
+      "review": "Great song"
+    }
+  ]
+}
